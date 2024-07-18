@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/law-react-ghpages/static/css/main.72de6c7b.css",
+    "main.js": "/law-react-ghpages/static/js/main.fea4e20c.js",
+    "index.html": "/law-react-ghpages/index.html",
+    "main.72de6c7b.css.map": "/law-react-ghpages/static/css/main.72de6c7b.css.map",
+    "main.fea4e20c.js.map": "/law-react-ghpages/static/js/main.fea4e20c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72de6c7b.css",
+    "static/js/main.fea4e20c.js"
+  ]
+}
